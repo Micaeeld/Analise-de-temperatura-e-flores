@@ -1,2 +1,2 @@
-# Analise-temperatura-flores
+# Analise-temperatura-e-flores
 matplotlib
